@@ -1,0 +1,130 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+img.Marco-de-texto-b-sico, div.Marco-de-texto-b-sico {
+	border-style:solid;
+}
+p.P-rrafo-b-sico {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Pie-de-pagina {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:Vollkorn, serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	-epub-hyphens:none;
+}
+span.CharOverride-1 {
+	color:#ffffff;
+	font-family:Vollkorn, serif;
+	font-size:7px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	color:#ffffff;
+	font-family:Vollkorn, serif;
+	font-size:18px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	color:#ffffff;
+	font-family:Vollkorn, serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-4 {
+	font-size:12px;
+}
+#_idContainer001 {
+	width:387px;
+}
+#_idContainer003 {
+	display:inline-block;
+	width:387px;
+}
+#_idContainer005 {
+	display:inline-block;
+	width:72px;
+}
+#_idContainer006 {
+	display:inline-block;
+	width:175px;
+}
+#_idContainer008 {
+	display:inline-block;
+	height:11px;
+	position:relative;
+	width:16px;
+}
+img._idGenObjectAttribute-1 {
+	height:152px;
+	width:387px;
+}
+img._idGenObjectAttribute-2 {
+	height:113px;
+	width:386px;
+}
+img._idGenObjectAttribute-3 {
+	height:44px;
+	width:187px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-color:#ffffff;
+	border-style:solid;
+	border-width:1px;
+}
+div._idGenObjectLayout-1 {
+	text-align:left;
+}
+div._idGenObjectLayout-2 {
+	text-align:center;
+}
